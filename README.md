@@ -1,4 +1,5 @@
 # COP2512-Python_Mode_Locator
+Mode Locator
 def print_mode():
     while True:
         user_input = input("Enter some integers: ")
